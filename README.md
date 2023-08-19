@@ -16,8 +16,8 @@ Shark Frenzy is a short, simple, and entertaining game that demonstrates basic g
 - Fish swim from left to right across the screen.
 - The player's goal is to catch the fish by colliding with them.
 - Each caught fish increases the player's score.
-- Fish come in different colors and have a triangular tail.
-- When a fish is caught, it disappears, and a new fish appears at the left side of the screen.
+- Fish come in different colors.
+- When a fish is caught, it disappears, and a new fish appears.
 
 ### Score
 
