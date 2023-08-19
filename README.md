@@ -21,7 +21,7 @@ Shark Frenzy is a short, simple, and entertaining game that demonstrates basic g
 
 ### Score
 
-- The player's score is displayed on the screen.
+- The player's score is displayed on the terminal.
 - The game ends when the player catches a certain number of fish (e.g., 5).
 
 ## Controls
